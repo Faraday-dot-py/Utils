@@ -1,1 +1,1 @@
-https://www.thebluealliance.com/api/v3/event/2018cabb/matches/simple?X-TBA-Auth-Key=ht2reckVnw5qlXqpuKdK6ranba4UsdLSi8i8Iug9WYgZXvn3kvHH2xT65ahCWOTw
+https://www.thebluealliance.com/api/v3/event/2022cabl/matches/simple?X-TBA-Auth-Key=ht2reckVnw5qlXqpuKdK6ranba4UsdLSi8i8Iug9WYgZXvn3kvHH2xT65ahCWOTw

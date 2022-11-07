@@ -4,6 +4,12 @@ import json
 with open("./url.txt", "r") as f:
     url = f.read()
 
+# MF FORGOT TO REMOVE THE WHITESPACES
+# MF FORGOT TO REMOVE THE WHITESPACES
+url = url.strip() # MF FORGOT TO REMOVE THE WHITESPACES
+# MF FORGOT TO REMOVE THE WHITESPACES
+# MF FORGOT TO REMOVE THE WHITESPACES
+
 raw = requests.get(url)
 
 matches = json.loads(raw.text)
